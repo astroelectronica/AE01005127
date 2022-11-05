@@ -2,7 +2,7 @@
 
 ## AP2127
 
-## 300MA High Speed, Extremely Low Noise CMOS LDO Regulator
+## 300mA High Speed, Extremely Low Noise CMOS LDO Regulator
 
 ### 01
 
